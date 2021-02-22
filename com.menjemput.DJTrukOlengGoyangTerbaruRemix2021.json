@@ -1,0 +1,54 @@
+{
+    "redirect":
+	[
+        {
+		"url_utama": "file:///android_asset/music/playlist.html",
+
+		"enable_mp3": true,
+                "enable_strap": true,
+                "enable_strap_Splah": true,
+                "ads_on_exit_dialog": true,
+
+                "pengaturan_iklan": "1",
+		"inter_count": 4,
+
+            	"startapp": "207572771",
+
+                "appid": "pub-9631226933833145",
+                "admobappid": "ca-app-pub-9631226933833145~3569381595",
+                "bannerid": "ca-app-pub-9631226933833145/2256299926",
+                "interid": "ca-app-pub-9631226933833145/4869541892",
+		"nativeid" : "ca-app-pub-9631226933833145/2128948046",                
+
+                "hpkstartapp": "mining",
+                "hpkstartapp": "Bitcoin",
+                "hpkstartapp": "finance",
+                "hpkstartapp": "Insurance",
+                "hpkstartapp": "the forex guy",
+                "hpkstartapp": "Bank",
+                "hpk_alien": "forex",
+                "hpkadmob1": "Doctor",
+                "hpkadmob2": "Insurance",
+                "hpkadmob3": "sutter hospital",
+                "hpkadmob4": "Bitcoin",
+                "hpkadmob5": "finance",
+                "hpkadmob6": "oanda historical fx",
+                "hpladmob7": "mining",
+
+                "fan_inter": "YOUR_PLACEMENT_ID",
+                "fan_banner": "YOUR_PLACEMENT_ID",
+		"fan_native": "YOUR_PLACEMENT_ID",
+
+		"exit_popup_dialog":
+		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
+				 
+                "url_more_apps": "https://play.google.com/store/apps/developer?id=Menjemput",
+                "rate_button" : "Rate 5 Stars Now",
+                "later_button" : "Rate Later",
+		"more_button" : "More Awesome Apps",
+				 
+		"json_popup_wait" : "Ready . . . ."
+
+        }
+    ]
+}
