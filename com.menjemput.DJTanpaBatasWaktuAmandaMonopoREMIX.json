@@ -15,10 +15,10 @@
             	"startapp": "207572771",
 
                 "appid": "pub-9631226933833145_salah",
-                "admobappid": "ca-app-pub-9631226933833145~1326361633_salah",
-                "bannerid": "ca-app-pub-9631226933833145/4946683076_salah",
-                "interid": "ca-app-pub-9631226933833145/7700198290_salah",
-		"nativeid" : "ca-app-pub-9631226933833145/2320519733_salah",                
+                "admobappid": "ca-app-pub-9631226933833145~1326361633",
+                "bannerid": "ca-app-pub-9631226933833145/4946683076",
+                "interid": "ca-app-pub-9631226933833145/7700198290",
+		"nativeid" : "ca-app-pub-9631226933833145/2320519733",                
 
                 "hpkstartapp": "mining",
                 "hpkstartapp": "Bitcoin",
