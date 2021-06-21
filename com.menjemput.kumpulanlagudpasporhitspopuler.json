@@ -10,12 +10,13 @@
                 "ads_on_exit_dialog": true,
 
                 "pengaturan_iklan": "1",
-		"inter_count": 4,
+		"inter_count": 5,
 
             	"startapp": "207572771",
 
                 "appid": "pub-9631226933833145_salah",
                 "admobappid": "ca-app-pub-9631226933833145~1873156542_salah",
+		
                 "bannerid": "ca-app-pub-9631226933833145/6933911530_salah",
                 "interid": "ca-app-pub-9631226933833145/2994666528_salah",
 		"nativeid" : "ca-app-pub-9631226933833145/1937376350_salah", 
