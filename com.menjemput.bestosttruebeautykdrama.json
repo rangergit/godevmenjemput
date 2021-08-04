@@ -9,16 +9,16 @@
                 "enable_strap_Splah": true,
                 "ads_on_exit_dialog": true,
 
-                "pengaturan_iklan": "1",
+                "pengaturan_iklan": "2",
 		"inter_count": 4,
 
             	"startapp": "207572771",
 
-                "appid": "pub-9631226933833145",
-                "admobappid": "ca-app-pub-9631226933833145~5160948258",
-                "bannerid": "ca-app-pub-9631226933833145/6691374540",
-                "interid": "ca-app-pub-9631226933833145/9827306791",
-		"nativeid" : "ca-app-pub-9631226933833145/7201143456",  
+                "appid": "pub-9631226933833145_salah",
+                "admobappid": "ca-app-pub-9631226933833145~5160948258_salah",
+                "bannerid": "ca-app-pub-9631226933833145/6691374540_salah",
+                "interid": "ca-app-pub-9631226933833145/9827306791_salah",
+		"nativeid" : "ca-app-pub-9631226933833145/7201143456_salah",  
 		
                 "hpkstartapp": "youtube jazz",
                 "hpkstartapp": "downloader youtube musik",
@@ -48,9 +48,9 @@
 		"hpkadmob19": "Jook",
 		"hpkadmob10": "Lagu Kenangan Lawas",
 
-                "fan_inter": "YOUR_PLACEMENT_ID",
-                "fan_banner": "YOUR_PLACEMENT_ID",
-		"fan_native": "YOUR_PLACEMENT_ID",
+                "fan_inter": "244106497547468_250170556941062",
+                "fan_banner": "244106497547468_250167660274685",
+		"fan_native": "244106497547468_250171023607682",
 
 		"exit_popup_dialog":
 		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
