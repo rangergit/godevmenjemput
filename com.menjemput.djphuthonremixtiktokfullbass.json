@@ -1,67 +1,78 @@
 {
-    "redirect":
-	[
-        {
-		"url_utama": "file:///android_asset/music/playlist.html",
+"redirect" : {
 
-		"enable_mp3": true,
-                "enable_strap": true,
-                "enable_strap_Splah": true,
-                "ads_on_exit_dialog": true,
+"HOMEURL" : "file:///android_asset/music/playlist.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Server Ready . . . v19j13",
 
-                "pengaturan_iklan": "1",
-		"inter_count": 4,
 
-            	"startapp": "207572771",
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
-                "appid": "pub-9631226933833145_salah",
-                "admobappid": "ca-app-pub-9631226933833145~7504232148_salah",
-                "bannerid": "ca-app-pub-9631226933833145/6583774395_salah",
-                "interid": "ca-app-pub-9631226933833145/8613956229_salah",
-		"nativeid" : "ca-app-pub-9631226933833145/9776079790_salah",                
 
-                "hpkstartapp": "youtube jazz",
-                "hpkstartapp": "downloader youtube musik",
-                "hpkstartapp": "android auto youtube music",
-                "hpkstartapp": "spotify laptop",
-                "hpkstartapp": "youtube music carplay",
-                "hpkstartapp": "spotify youtube music",
-                "hpk_alien": "telkomsel",
-                "hpkadmob1": "youtube jazz",
-                "hpkadmob2": "downloader youtube musik",
-                "hpkadmob3": "android auto youtube music",
-                "hpkadmob4": "spotify laptop",
-                "hpkadmob5": "youtube music carplay",
-                "hpkadmob6": "spotify youtube music",
-                "hpkadmob7": "deezer sony 360",
-		"hpkadmob8": "spotify artist",
-		"hpkadmob9": "soundcloud mp3",
-		"hpkadmob10": "stream spotify",
-		"hpkadmob11": "amazon music converter",
-		"hpkadmob12": "youtube rock",
-		"hpkadmob13": "itd music",
-		"hpkadmob14": "apple music android",
-		"hpkadmob15": "spotify play",
-		"hpkadmob16": "musik dj terbaru",
-		"hpkadmob17": "lagu DJ hits",
-		"hpkadmob18": "musik original",
-		"hpkadmob19": "Jook",
-		"hpkadmob10": "Lagu Kenangan Lawas",
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
-                "fan_inter": "YOUR_PLACEMENT_ID",
-                "fan_banner": "YOUR_PLACEMENT_ID",
-		"fan_native": "YOUR_PLACEMENT_ID",
+"INTER_COUNT" : 4,
 
-		"exit_popup_dialog":
-		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
-				 
-                "url_more_apps": "https://play.google.com/store/apps/developer?id=Menjemput",
-                "rate_button" : "Rate 5 Stars Now",
-                "later_button" : "Rate Later",
-		"more_button" : "More Awesome Apps",
-				 
-		"json_popup_wait" : "Ready . . . ."
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
 
-        }
-    ]
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : false,
+"Enable_Sticky_Notification" : false,
+
+
+"STARAPPID" : "207572771",
+
+"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142_salah",
+"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478_salah",
+"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134_salah",
+
+"hpk_alien" : "kuota data 30gb",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "Bank Jenius",
+"HPK_ADMOB3" : "Simpati",
+"HPK_ADMOB4" : "Telkomsel",
+"HPK_ADMOB5" : "Donasi",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4419727",
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "_salah",
+"APPLOVIN_INTERSTITIAL_ID" : "_salah",
+
+"Button_Start" : "START",
+"Button_Share" : "SHARE TO FRIEND",
+"Button_Rating" : "RATING NOW",
+
+
+"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Rate_Button" : "Rate 5 Stars",
+"Later_Button" : "Rate Later",
+"enable_Share_button" : true,
+"Share_TXT" : "Supperr APPS Download Now",
+"More_Button" : "Share Via WhatsApp",
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
 }
