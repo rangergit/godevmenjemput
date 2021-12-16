@@ -9,15 +9,15 @@
                 "enable_strap_Splah": true,
                 "ads_on_exit_dialog": true,
 
-                "pengaturan_iklan": "2",
-		"inter_count": 4,
+                "pengaturan_iklan": "1",
+		"inter_count": 1,
 
             	"startapp": "207572771",
 
-                "appid": "pub-9631226933833145_salah",
-                "admobappid": "ca-app-pub-9631226933833145~2304039996_salah",
-                "bannerid": "ca-app-pub-9631226933833145/9990958326_salah",
-                "interid": "ca-app-pub-9631226933833145/6051713311_salah",
+                "appid": "pub-9631226933833145",
+                "admobappid": "ca-app-pub-9631226933833145~2304039996",
+                "bannerid": "ca-app-pub-9631226933833145/4741637352",
+                "interid": "ca-app-pub-9631226933833145/8489310674",
 		"nativeid" : "ca-app-pub-9631226933833145/8486304961_salah",   
 		
                 "hpkstartapp": "youtube jazz",
@@ -48,9 +48,9 @@
 		"hpkadmob19": "Jook",
 		"hpkadmob10": "Lagu Kenangan Lawas",
 
-                "fan_inter": "519030066085431_519031576085280",
-                "fan_banner": "519030066085431_519031402751964",
-		"fan_native": "519030066085431_519031779418593",
+                "fan_inter": "519030066085431_519031576085280_salah",
+                "fan_banner": "519030066085431_519031402751964_salah",
+		"fan_native": "519030066085431_519031779418593_salah",
 
 		"exit_popup_dialog":
 		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
