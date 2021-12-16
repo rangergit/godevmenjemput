@@ -10,15 +10,15 @@
                 "ads_on_exit_dialog": true,
 
                 "pengaturan_iklan": "1",
-		"inter_count": 4,
+		"inter_count": 1,
 
             	"startapp": "207572771",
 
                 "appid": "pub-9631226933833145",
                 "admobappid": "ca-app-pub-9631226933833145~4854536939",
-                "bannerid": "ca-app-pub-9631226933833145/1049548517",
-                "interid": "ca-app-pub-9631226933833145/3691830207",
-		"nativeid" : "ca-app-pub-9631226933833145/2214456372",                
+                "bannerid": "ca-app-pub-9631226933833145/9600703052",
+                "interid": "ca-app-pub-9631226933833145/9215057224",
+		"nativeid" : "ca-app-pub-9631226933833145/2214456372_salah",                
 
                 "hpkstartapp": "youtube jazz",
                 "hpkstartapp": "downloader youtube musik",
