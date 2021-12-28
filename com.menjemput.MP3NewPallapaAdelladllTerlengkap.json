@@ -22,7 +22,7 @@
 "PENGATURAN_IKLAN_inter" : "ADMOB",
 "PENGATURAN_IKLAN_native" : "ADMOB",
 
-"INTER_COUNT" : 1,
+"INTER_COUNT" : 2,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -35,8 +35,8 @@
 
 "STARAPPID" : "207572771",
 
-"ADMOB_BANNER" : "ca-app-pub-9631226933833145/6961247218_salah",
-"ADMOB_INTER" : "ca-app-pub-9631226933833145/8831913849_salah",
+"ADMOB_BANNER" : "ca-app-pub-9631226933833145/6961247218",
+"ADMOB_INTER" : "ca-app-pub-9631226933833145/8831913849",
 "ADMOB_NATIV" : "ca-app-pub-9631226933833145/6519463973_salah",
 
 "hpk_alien" : "kuota data 30gb",
