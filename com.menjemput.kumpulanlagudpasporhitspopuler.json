@@ -10,14 +10,14 @@
                 "ads_on_exit_dialog": true,
 
                 "pengaturan_iklan": "1",
-		"inter_count": 1,
+		"inter_count": 2,
 
             	"startapp": "207572771",
 
-                "appid": "pub-9631226933833145_salah",
-                "admobappid": "ca-app-pub-9631226933833145~1873156542_salah",
-                "bannerid": "ca-app-pub-9631226933833145/6414452303_salah",
-                "interid": "ca-app-pub-9631226933833145/6893157978_salah",
+                "appid": "pub-9631226933833145",
+                "admobappid": "ca-app-pub-9631226933833145~1873156542",
+                "bannerid": "ca-app-pub-9631226933833145/6414452303",
+                "interid": "ca-app-pub-9631226933833145/6893157978",
 		"nativeid" : "ca-app-pub-9631226933833145/1937376350_salah", 
 		
                 "hpkstartapp": "youtube jazz",
